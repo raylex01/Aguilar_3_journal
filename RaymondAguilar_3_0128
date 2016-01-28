@@ -1,0 +1,8 @@
+What is this?:
+public void render(GameContainer gc, StateBasedGame sbg, Graphics g)
+throws SlickException {
+
+This is a class because it uses the term render and this is part of a class that was necessary for our slick game.
+
+
+

@@ -1,0 +1,10 @@
+What is a class constructor?
+A class constructor basically tells Java how to make a project and allows you to create classes to
+use in your game.
+
+What should be included in a class constructor for orbs? Why?
+We should include something that will allow us to give the orb a color.
+
+What methods should the orb have? why?
+
+Orbs should have a method having to do with the amount of damage

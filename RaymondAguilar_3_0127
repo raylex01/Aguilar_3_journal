@@ -1,0 +1,28 @@
+Title your journal lastname_period_date_images
+
+
+How do you add an image to a slick game?
+To add an image you must create a class for the object then once youre in the 
+class you will need to create a method and one of the things you will need to do is add the image
+to the res folder then in netbeans you type res/ the name of the picture then .png
+
+Where is the image drawn? [What code? Be specific.] 
+The image is drawn in the class for that object. This is the code for adding an image
+
+class item1 {
+	public int x;
+	public int y;
+	public boolean isvisible = true;
+	Image currentImage;
+	Shape hitbox;
+	Image healthpotion = new Image("res/speed.png");
+
+	item1(int a, int b) throws SlickException {
+		this.x = a;
+		this.y = b;
+		this.hitbox = new Rectangle(a, b, 300, 300);// 64 is the width of the item
+		this.currentImage = healthpotion;
+
+	}
+
+}

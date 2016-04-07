@@ -1,0 +1,23 @@
+  What differences and similarites have you noticed? Provide at least 3 and explain in complete sentences.
+One of the differences I have noticed is that I dont have to create separate classses and the code is a lot simpler and shorter, theres
+not a lot that needs to be typed to get the code to work. 
+
+  What code adaptations have you made?
+The code adaptions we have made are changing the frequencies on the notes, adding new notes, and programming the Piezo Buzzer to play a 
+song for our project.
+
+  What is required for a circuit?
+Wires must be connected to the power on the breadboard and Arduino to get the circuit to work, You will also need a resistor and anything
+else you would need depending on what you want to do. LED, LCD, Piezo buzzer, etc.
+
+  How are programs compiled with Arduino?
+Arduino code is shorter and includes a lot of comments to separate everything and help us understand and learn what the code does and how
+we should read it.
+
+  Describe the projects you have completed this/last week and what you have learned from them.
+
+  Describe your project and the code adaptations you will have to make.
+My partner and I will use the Piezo buzzer to play a song while LED'S flash during the song, We will need to add new notes, change the 
+frequency of the sounds, add rests and pauses, and just program the buzzer to play our song. We will be using "Tequila" by The Champs but 
+we must figure out how to put the code for the buzzer and the code for the LED'S in the same code.
+

@@ -1,0 +1,14 @@
+Describe the progress you have made on your project.
+My partner and I have thought of an idea and we are currently trying to get the piezo buzzer to play song.
+
+What have you done?
+We have added new notes and changed the frequencies of notes that were already in the code.
+
+What do you need to do?
+We need to get the buzzer to play the entire song and program LED's to correspond with the beat of the song.
+
+What will you be able to turn in on Friday?
+We will be able to turn in a piezo buzzer that plays a song.
+
+What code changes are you writing?
+We are adding new notes to the program, we are also adding pauses, and telling the buzzer what order to play the notes.

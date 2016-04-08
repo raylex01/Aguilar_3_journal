@@ -15,6 +15,10 @@ Arduino code is shorter and includes a lot of comments to separate everything an
 we should read it.
 
   Describe the projects you have completed this/last week and what you have learned from them.
+Our projects have included simple circuits such as getting an LED TO work or how to get the piezo buzzer to play a melody, to more 
+complicated circuits that require more wires and more components to get it to work. I have learned how to use a breadboard and how it 
+works, I have also learned about different parts and pieces of equipment that I never knew about like an Arduino, resistors, and
+potentiometers, etc.
 
   Describe your project and the code adaptations you will have to make.
 My partner and I will use the Piezo buzzer to play a song while LED'S flash during the song, We will need to add new notes, change the 

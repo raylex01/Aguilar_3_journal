@@ -1,0 +1,24 @@
+For what computational reason did you type elf64?
+We typed elf64 because it is a 64 bit operating system.
+
+Why did you use ld?
+
+Why did you not have to use chmod to make sample executable?
+
+Now - change the code to print your name. You should change the program so that it actually prints your name.
+raylex01@ninja15:~$ pico sample.asm
+raylex01@ninja15:~$ nasm -f elf64 -l sample.lst sample.asm
+raylex01@ninja15:~$ ld -s -o sample sample.o
+raylex01@ninja15:~$ ./sample
+Raymond Aguilar
+
+
+What problem did you have to solve to get it to work?
+
+Given your actual experience with Assembly now --- Is assembly 'quick and easy'? Why or why not?
+No. Assembly is not quick and easy, you must type a lot more and know a lot more about coding to complete a simple task like 
+drawing a line. It is much more difficult than Java.
+
+What does 'low level' actually mean with regards to programming languages?
+Low level means that you are a lot closer to the raw code and you have to do a lot more to complete 
+a simple task.

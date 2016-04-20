@@ -1,0 +1,2 @@
+One thing I have noticed between assembly and HRM are the similarities between Conditional Jump and the Jump if zero command in 
+Human Resource Machine. In HRM the program will jump a number if it is Zero which is very similar to the Conditional Jump, where  

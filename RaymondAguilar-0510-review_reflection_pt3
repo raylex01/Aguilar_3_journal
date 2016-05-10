@@ -1,0 +1,2 @@
+You cannot initialize the hero inside the 'Hero' class because then it wont be called into the game and it will only stay in the
+'Hero' class, so you wouldnt have a hero in your game.

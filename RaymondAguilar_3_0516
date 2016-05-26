@@ -1,0 +1,6 @@
+Casting is when you label something differently without actually changing the object.
+Upcasting is automatic while Downcasting must be done manually.
+
+Cat c1 = new Cat();		 
+	Animal a = c1;		 //automatic upcasting to Animal
+	Cat c2 = (Cat) a;    //manual downcasting back to a Cat

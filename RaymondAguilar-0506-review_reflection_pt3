@@ -1,0 +1,25 @@
+Given mymap[67][43] Which is the x coordinate? Which is the y coordinate? Why? How does this happen?
+Consider:
+        for (int i = 0; i <= map[0].length - 1; i++) {
+            for (int j = 0; j <= map[1].length - 1; j++) {
+                if (j < map[1].length - 1) {
+                  if (i=0){ System.out.print("8888"); #a
+                    } else if (map[i][j] != 'x') {
+                        System.out.print("."); #e
+                    } else {
+                        System.out.print(map[i][j]); #b
+                    }
+                } else {
+                    if (map[i][j] != 'x') {
+                        System.out.println("."); #c
+                    } else {
+                        System.out.println(map[i][j]); #d
+                    }
+                }
+            }
+        }
+    }
+        
+        
+      
+The Y coordinate is 67 and the X coordinate is 43. 
